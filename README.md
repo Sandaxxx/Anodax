@@ -12,5 +12,5 @@
 
 
 ## __Build__
-* [anonfile]([https://pypi.org/project//](https://github.com/nstrydom2/anonfile-api))
+* [anonfile](https://github.com/nstrydom2/anonfile-api)
 * [Python](https://www.python.org/)
